@@ -28,7 +28,7 @@ And I will finish the content for a backend developer soon.
   <em>
   <h4>sub projects - JavaScript</h4>
   <h5>Dice Project</h5>
-  <p>website : https://github.com/semnadtsat7/Dice code : https://semnadtsat7.github.io/Dice/</p>
+  <p>website : https://semnadtsat7.github.io/Dice/ code :  https://github.com/semnadtsat7/Dice </p>
   <h5>Drum Project</h5>
-  <p>website : https://github.com/semnadtsat7/Drum code : https://semnadtsat7.github.io/Drum/</p>
+  <p>website : https://semnadtsat7.github.io/Drum/  code : https://github.com/semnadtsat7/Drum</p>
   </em>
