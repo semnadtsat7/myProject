@@ -1,4 +1,4 @@
-# myProject
+# Nawaphat
 
 This is my project consisting of topics such as HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
