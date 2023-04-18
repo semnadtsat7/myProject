@@ -1,6 +1,6 @@
 # Nawaphat Pheawking
 
-This is my project consisting of topics such as HTML, CSS, Bootstrap, JavaScript, and jQuery.
+This is my projects consisting of topics such as HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 <h2>1st - HTML and CSS</h2>
 
