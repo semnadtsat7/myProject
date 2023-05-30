@@ -1,7 +1,5 @@
 # Nawaphat Pheawking's projects
 
-This is my projects consisting of topics such as HTML, CSS, Bootstrap, JavaScript, and jQuery. 
-And I will finish the content for a backend developer soon.
 
 <h2>1st - HTML and CSS</h2>
 
